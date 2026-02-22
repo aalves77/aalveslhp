@@ -177,10 +177,10 @@ export default function App() {
   ];
 
   const mobileSettings = [
-    { label: 'Device', value: 'iPhone 16 Pro Max', icon: <Smartphone className="w-4 h-4" /> },
+    { label: 'Device', value: 'iPhone 16', icon: <Smartphone className="w-4 h-4" /> },
     { label: 'Sensitivity', value: '95 (Standard)', icon: <MousePointer2 className="w-4 h-4" /> },
     { label: 'Graphics', value: 'Extreme / 120 FPS', icon: <Monitor className="w-4 h-4" /> },
-    { label: 'Processor', value: 'A18 Pro', icon: <Cpu className="w-4 h-4" /> },
+    { label: 'Processor', value: 'A18', icon: <Cpu className="w-4 h-4" /> },
     { label: 'Layout', value: '5 Fingers Claw', icon: <Keyboard className="w-4 h-4" /> },
     { label: 'Storage', value: '512GB', icon: <Disc className="w-4 h-4" /> },
   ];
